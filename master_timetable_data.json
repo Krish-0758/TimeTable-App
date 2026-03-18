@@ -1,0 +1,420 @@
+{
+  "3A": {
+    "Monday": [
+      {
+        "time": "9:00-9:55",
+        "course": "DD&CO",
+        "faculty": [
+          "MRC"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "9:55-10:50",
+        "course": "DMS",
+        "faculty": [
+          "JGR"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "11:05-12:00",
+        "course": "MATHS",
+        "faculty": [
+          "RP"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "12:00-12:55",
+        "course": "DS",
+        "faculty": [
+          "AKK"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "13:45-14:40",
+        "course": "OOP LAB",
+        "faculty": [
+          "SRR",
+          "US",
+          "MRC"
+        ],
+        "room": "CSE LAB4"
+      },
+      {
+        "time": "14:40-15:35",
+        "course": "OOP LAB",
+        "faculty": [
+          "SRR",
+          "US",
+          "MRC"
+        ],
+        "room": "CSE LAB4"
+      },
+      {
+        "time": "15:35-16:30",
+        "course": "INDUSTRY TALK",
+        "faculty": [],
+        "room": "",
+        "is_special": true
+      }
+    ],
+    "Tuesday": [
+      {
+        "time": "9:00-9:55",
+        "course": "MATHS TUT",
+        "faculty": [
+          "RP"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "9:55-10:50",
+        "course": "MATHS TUT",
+        "faculty": [
+          "RP"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "11:05-12:00",
+        "course": "DS LAB",
+        "faculty": [
+          "AKK",
+          "SCS",
+          "VGS"
+        ],
+        "room": "CSE LAB1"
+      },
+      {
+        "time": "12:00-12:55",
+        "course": "DS LAB",
+        "faculty": [
+          "AKK",
+          "SCS",
+          "VGS"
+        ],
+        "room": "CSE LAB1"
+      },
+      {
+        "time": "13:45-14:40",
+        "course": "UHV",
+        "faculty": [
+          "APK"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "14:40-15:35",
+        "course": "AEC",
+        "faculty": [
+          "MRC"
+        ],
+        "room": "CSE LAB4"
+      },
+      {
+        "time": "15:35-16:30",
+        "course": "INDUSTRY TALK",
+        "faculty": [],
+        "room": "",
+        "is_special": true
+      }
+    ],
+    "Wednesday": [
+      {
+        "time": "9:00-9:55",
+        "course": "DMS TUT",
+        "faculty": [
+          "JGR",
+          "SCS"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "9:55-10:50",
+        "course": "OOP",
+        "faculty": [
+          "SRR"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "11:05-12:00",
+        "course": "UHV",
+        "faculty": [
+          "APK"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "12:00-12:55",
+        "course": "MATHS",
+        "faculty": [
+          "RP"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "13:45-14:40",
+        "course": "DD&CO",
+        "faculty": [
+          "MRC"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "14:40-15:35",
+        "course": "DS",
+        "faculty": [
+          "AKK"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "15:35-16:30",
+        "course": "INDUSTRY TALK",
+        "faculty": [],
+        "room": "",
+        "is_special": true
+      }
+    ],
+    "Thursday": [
+      {
+        "time": "9:00-9:55",
+        "course": "DS",
+        "faculty": [
+          "AKK"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "9:55-10:50",
+        "course": "OOP",
+        "faculty": [
+          "SRR"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "11:05-12:00",
+        "course": "DD&CO",
+        "faculty": [
+          "MRC"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "12:00-12:55",
+        "course": "MATHS",
+        "faculty": [
+          "RP"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "13:45-14:40",
+        "course": "INDUSTRY TALK",
+        "faculty": [],
+        "room": "",
+        "is_special": true
+      },
+      {
+        "time": "14:40-15:35",
+        "course": "INDUSTRY TALK",
+        "faculty": [],
+        "room": "",
+        "is_special": true
+      },
+      {
+        "time": "15:35-16:30",
+        "course": "INDUSTRY TALK",
+        "faculty": [],
+        "room": "",
+        "is_special": true
+      }
+    ],
+    "Friday": [
+      {
+        "time": "9:00-9:55",
+        "course": "OOP",
+        "faculty": [
+          "SRR"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "9:55-10:50",
+        "course": "DMS",
+        "faculty": [
+          "JGR"
+        ],
+        "room": "LHC 301"
+      },
+      {
+        "time": "11:05-12:00",
+        "course": "DD&CO LAB",
+        "faculty": [
+          "MRC",
+          "ASB",
+          "TNR"
+        ],
+        "room": "CSE LAB4"
+      },
+      {
+        "time": "12:00-12:55",
+        "course": "DD&CO LAB",
+        "faculty": [
+          "MRC",
+          "ASB",
+          "TNR"
+        ],
+        "room": "CSE LAB4"
+      },
+      {
+        "time": "13:45-14:40",
+        "course": "PROCTOR MEETING",
+        "faculty": [],
+        "room": "",
+        "is_special": true
+      },
+      {
+        "time": "14:40-15:35",
+        "course": "MATHS(Lateral)",
+        "faculty": [],
+        "room": ""
+      },
+      {
+        "time": "15:35-16:30",
+        "course": "MATHS(Lateral)",
+        "faculty": [],
+        "room": ""
+      }
+    ]
+  },
+  "3B": {
+    "Monday": [
+      {
+        "time": "9:00-9:55",
+        "course": "DD&CO LAB",
+        "faculty": [
+          "ASB",
+          "APK",
+          "RDF-BD"
+        ],
+        "room": "CSE LAB4"
+      },
+      {
+        "time": "9:55-10:50",
+        "course": "DD&CO LAB",
+        "faculty": [
+          "ASB",
+          "APK",
+          "RDF-BD"
+        ],
+        "room": "CSE LAB4"
+      },
+      {
+        "time": "11:05-12:00",
+        "course": "OOP",
+        "faculty": [
+          "MA"
+        ],
+        "room": "LHC 303"
+      },
+      {
+        "time": "12:00-12:55",
+        "course": "DS",
+        "faculty": [
+          "SB"
+        ],
+        "room": "LHC 303"
+      },
+      {
+        "time": "13:45-14:40",
+        "course": "MATHS",
+        "faculty": [
+          "RSB"
+        ],
+        "room": "LHC 303"
+      },
+      {
+        "time": "14:40-15:35",
+        "course": "DMS TUT",
+        "faculty": [
+          "SCS",
+          "NSB"
+        ],
+        "room": "LHC 303"
+      },
+      {
+        "time": "15:35-16:30",
+        "course": "INDUSTRY TALK",
+        "faculty": [],
+        "room": "",
+        "is_special": true
+      }
+    ],
+    "Tuesday": [],
+    "Wednesday": [],
+    "Thursday": [],
+    "Friday": []
+  },
+  "3C": {
+    "Monday": [],
+    "Tuesday": [],
+    "Wednesday": [],
+    "Thursday": [],
+    "Friday": []
+  },
+  "3D": {
+    "Monday": [],
+    "Tuesday": [],
+    "Wednesday": [],
+    "Thursday": [],
+    "Friday": []
+  },
+  "5A": {
+    "Monday": [],
+    "Tuesday": [],
+    "Wednesday": [],
+    "Thursday": [],
+    "Friday": []
+  },
+  "5B": {
+    "Monday": [],
+    "Tuesday": [],
+    "Wednesday": [],
+    "Thursday": [],
+    "Friday": []
+  },
+  "5C": {
+    "Monday": [],
+    "Tuesday": [],
+    "Wednesday": [],
+    "Thursday": [],
+    "Friday": []
+  },
+  "5D": {
+    "Monday": [],
+    "Tuesday": [],
+    "Wednesday": [],
+    "Thursday": [],
+    "Friday": []
+  },
+  "7A": {
+    "Monday": [],
+    "Tuesday": [],
+    "Wednesday": [],
+    "Thursday": [],
+    "Friday": []
+  },
+  "7B": {
+    "Monday": [],
+    "Tuesday": [],
+    "Wednesday": [],
+    "Thursday": [],
+    "Friday": []
+  }
+}

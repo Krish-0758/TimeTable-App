@@ -1,0 +1,20 @@
+{
+    "constraint_id": "FAC_001",
+    "constraint_type": "faculty",
+    "hardness": "hard",
+    "parameters": {
+        "faculty_name": "Dr. Smith",
+        "max_hours_per_day": 4,
+        "available_days": [
+            "Monday",
+            "Wednesday",
+            "Friday"
+        ],
+        "preferred_time_slots": [
+            "09:00-11:00"
+        ],
+        "unavailable_slots": [
+            "Monday_14:00-15:00"
+        ]
+    }
+}

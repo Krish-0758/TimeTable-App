@@ -1,0 +1,14 @@
+{
+    "constraint_id": "RM_001",
+    "constraint_type": "room",
+    "hardness": "hard",
+    "parameters": {
+        "room_number": "301",
+        "capacity": 60,
+        "has_projector": true,
+        "has_computers": false,
+        "unavailable_slots": [
+            "Wednesday_14:00-16:00"
+        ]
+    }
+}
