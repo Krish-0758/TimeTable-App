@@ -269,12 +269,12 @@ class EnhancedConstraintManager:
                 # Get variables (these should be specific to this lab course)
                 # For now, using generic assignment vars
                 if current_slot in self.assignment_vars and next_slot in self.assignment_vars:
-                    # If current slot is assigned, next must also be assigned
-                    # self.model.AddImplication(self.assignment_vars[current_slot] == 1,
-                    #                          self.assignment_vars[next_slot] == 1)
+                    # This line is now properly indented
+                    self.model.AddImplication(self.assignment_vars[current_slot] == 1,
+                                             self.assignment_vars[next_slot] == 1)
                     constraints_added += 1
         
-        logger.info(f"Added lab consecutive constraints for {lab_course_id}")
+        logger.info(f"Added {constraints_added} lab consecutive constraints for {lab_course_id}")
     
     # =========================================================
     # 4. NO TWO CLASSES FOR SAME SECTION AT SAME TIME

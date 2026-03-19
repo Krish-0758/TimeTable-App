@@ -47,7 +47,7 @@ class EnhancedTimetableModel:
         self._set_objective()
     
     def _extract_courses(self) -> Dict[str, Dict]:
-        """Extract course information from constraints"""
+        """Extract course information from constraints including lab/tutorial hours"""
         courses = {}
         for constraint in self.constraints:
             if constraint.constraint_type == "subject":
@@ -61,6 +61,9 @@ class EnhancedTimetableModel:
                         'section': params.get('section', 'COMMON'),
                         'type': params.get('type', 'theory'),
                         'weekly_lectures': params.get('weekly_lectures', 3),
+                        'weekly_tutorials': params.get('weekly_tutorials', 0),
+                        'weekly_labs': params.get('weekly_labs', 0),
+                        'requires_lab': params.get('requires_lab', False),
                         'faculty_ids': params.get('faculty_ids', [])
                     }
         return courses
@@ -165,6 +168,9 @@ class EnhancedTimetableModel:
         
         # 7. Break constraints (from structure)
         self._add_break_constraints()
+        
+        # 8. Lab consecutive slot constraints
+        self._add_lab_consecutive_constraints()
         
         logger.info("Added all constraints to model")
     
@@ -288,6 +294,57 @@ class EnhancedTimetableModel:
                     slot_id = slot.get('slot_id')
                     if slot_id and slot_id in self.slot_used_vars:
                         self.model.Add(self.slot_used_vars[slot_id] == 0)
+    
+    def _add_lab_consecutive_constraints(self):
+        """
+        Ensure lab courses use consecutive slots
+        If a lab is assigned to slot i, it must also be assigned to slot i+1
+        """
+        # Group slots by day
+        slots_by_day = {}
+        for day, slots in self.timetable_structure.items():
+            day_slots = []
+            for slot in slots:
+                if slot.get('type') == 'lecture':
+                    slot_id = slot.get('slot_id')
+                    if slot_id:
+                        day_slots.append(slot_id)
+            # Sort by start time
+            day_slots.sort()
+            slots_by_day[day] = day_slots
+        
+        # Find lab courses
+        for course_id, course in self.courses.items():
+            if course.get('requires_lab', False) or course.get('weekly_labs', 0) > 0:
+                # For each day, check consecutive slots
+                for day, day_slots in slots_by_day.items():
+                    for i in range(len(day_slots) - 1):
+                        current_slot = day_slots[i]
+                        next_slot = day_slots[i + 1]
+                        
+                        # Collect variables for this course in these slots
+                        current_vars = []
+                        next_vars = []
+                        
+                        for faculty_id in self.assignment_vars:
+                            if course_id in self.assignment_vars[faculty_id]:
+                                if current_slot in self.assignment_vars[faculty_id][course_id]:
+                                    current_vars.append(
+                                        self.assignment_vars[faculty_id][course_id][current_slot]
+                                    )
+                                if next_slot in self.assignment_vars[faculty_id][course_id]:
+                                    next_vars.append(
+                                        self.assignment_vars[faculty_id][course_id][next_slot]
+                                    )
+                        
+                        # If this course is assigned to current slot, it must also be assigned to next slot
+                        if current_vars and next_vars:
+                            for current_var in current_vars:
+                                for next_var in next_vars:
+                                    # current_var => next_var
+                                    self.model.AddImplication(current_var, next_var)
+        
+        logger.info("Added lab consecutive slot constraints")
     
     def _set_objective(self):
         """Maximize total assigned slots"""
