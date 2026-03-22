@@ -1,0 +1,142 @@
+{
+  "24CS33": {
+    "course_name": "Data Structures (3:0:0)",
+    "lectures_per_week": 3,
+    "tutorials_per_week": 0,
+    "labs_per_week": 0,
+    "total_slots_per_week": 3
+  },
+  "24CS34": {
+    "course_name": "Object Oriented Programming(3:0:0)",
+    "lectures_per_week": 3,
+    "tutorials_per_week": 0,
+    "labs_per_week": 0,
+    "total_slots_per_week": 3
+  },
+  "24CS35": {
+    "course_name": "Discrete Mathematical Structures (2:0:0)",
+    "lectures_per_week": 2,
+    "tutorials_per_week": 0,
+    "labs_per_week": 0,
+    "total_slots_per_week": 2
+  },
+  "24CS35_TUT": {
+    "course_name": "DMS TUT (0:1:0)",
+    "lectures_per_week": 0,
+    "tutorials_per_week": 1,
+    "labs_per_week": 0,
+    "total_slots_per_week": 1
+  },
+  "24CSL36": {
+    "course_name": "Data Structures Laboratory (0:0:1)",
+    "lectures_per_week": 0,
+    "tutorials_per_week": 0,
+    "labs_per_week": 1,
+    "total_slots_per_week": 1
+  },
+  "24CSL37": {
+    "course_name": "OOP Laboratory (0:0:1)",
+    "lectures_per_week": 0,
+    "tutorials_per_week": 0,
+    "labs_per_week": 1,
+    "total_slots_per_week": 1
+  },
+  "24UHV38": {
+    "course_name": "Universal Human Value Course (2:0:0)",
+    "lectures_per_week": 2,
+    "tutorials_per_week": 0,
+    "labs_per_week": 0,
+    "total_slots_per_week": 2
+  },
+  "24CSAEC310": {
+    "course_name": "Unix and Shell Programming (1:0:0)",
+    "lectures_per_week": 1,
+    "tutorials_per_week": 0,
+    "labs_per_week": 0,
+    "total_slots_per_week": 1
+  },
+  "24CS32": {
+    "course_name": "Digital Design and Computer Organization (3:0:1)",
+    "lectures_per_week": 3,
+    "tutorials_per_week": 0,
+    "labs_per_week": 1,
+    "total_slots_per_week": 4
+  },
+  "23CS52": {
+    "course_name": "Artificial Intelligence and Machine Learning (3:0:1)",
+    "lectures_per_week": 3,
+    "tutorials_per_week": 0,
+    "labs_per_week": 1,
+    "total_slots_per_week": 4
+  },
+  "23CS53": {
+    "course_name": "Database Systems(2:0:0)",
+    "lectures_per_week": 2,
+    "tutorials_per_week": 0,
+    "labs_per_week": 0,
+    "total_slots_per_week": 2
+  },
+  "23CS53_TUT": {
+    "course_name": "DBS TUT (0:1:0)",
+    "lectures_per_week": 0,
+    "tutorials_per_week": 1,
+    "labs_per_week": 0,
+    "total_slots_per_week": 1
+  },
+  "23CS54": {
+    "course_name": "Operating Systems(4:0:0)",
+    "lectures_per_week": 4,
+    "tutorials_per_week": 0,
+    "labs_per_week": 0,
+    "total_slots_per_week": 4
+  },
+  "23CSE551": {
+    "course_name": "Program Elective Course – 1 Cryptography and Network Security(3:0: 0)",
+    "lectures_per_week": 3,
+    "tutorials_per_week": 0,
+    "labs_per_week": 0,
+    "total_slots_per_week": 3
+  },
+  "23CSE5511": {
+    "course_name": "Program Elective Course – 1 Secure Programming ( 3:0:0)",
+    "lectures_per_week": 3,
+    "tutorials_per_week": 0,
+    "labs_per_week": 0,
+    "total_slots_per_week": 3
+  },
+  "23CSL56": {
+    "course_name": "Database Laboratory (0: 0:1)",
+    "lectures_per_week": 0,
+    "tutorials_per_week": 0,
+    "labs_per_week": 1,
+    "total_slots_per_week": 1
+  },
+  "23CSL57": {
+    "course_name": "Full Stack Development Lab (0:0:1)",
+    "lectures_per_week": 0,
+    "tutorials_per_week": 0,
+    "labs_per_week": 1,
+    "total_slots_per_week": 1
+  },
+  "23AL58": {
+    "course_name": "Research Methodology & Intellectual property rights (3: 0: 0)",
+    "lectures_per_week": 3,
+    "tutorials_per_week": 0,
+    "labs_per_week": 0,
+    "total_slots_per_week": 3
+  },
+  "23CSAEC510": {
+    "course_name": "AEC- Project Management With GIT (1:0:0)",
+    "lectures_per_week": 1,
+    "tutorials_per_week": 0,
+    "labs_per_week": 0,
+    "total_slots_per_week": 1
+  },
+  "23CS51": {
+    "course_name": "Software Engineering & Modeling (3:0:0)",
+    "lectures_per_week": 3,
+    "tutorials_per_week": 0,
+    "labs_per_week": 0,
+    "total_slots_per_week": 3
+  }
+}

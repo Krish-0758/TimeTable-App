@@ -1,0 +1,3006 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "generated_date": "2026-03-22",
+    "total_faculty": 31,
+    "total_courses": 79,
+    "total_sections": 8
+  },
+  "faculty_constraints": [
+    {
+      "constraint_id": "FAC_drannapurna_p_patil",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "drannapurna_p_patil",
+        "name": "Dr.Annapurna P. Patil",
+        "designation": "Head & Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 0,
+          "max_units": 18,
+          "remaining_units": 18,
+          "is_within_limit": true,
+          "courses": []
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_drmonica_r_mundada",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "drmonica_r_mundada",
+        "name": "Dr.Monica R Mundada",
+        "designation": "Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 18,
+          "max_units": 18,
+          "remaining_units": 0,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "24CSAEC310",
+              "section": "3A",
+              "units": 2
+            },
+            {
+              "course_code": "24CS32",
+              "section": "3A",
+              "units": 8
+            },
+            {
+              "course_code": "24CS32",
+              "section": "3C",
+              "units": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_prof_nagabhushan_a_m",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "prof_nagabhushan_a_m",
+        "name": "Prof. Nagabhushan A M",
+        "designation": "Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 12,
+          "max_units": 18,
+          "remaining_units": 6,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "24CS34",
+              "section": "3C",
+              "units": 6
+            },
+            {
+              "course_code": "24CSL37",
+              "section": "3C",
+              "units": 2
+            },
+            {
+              "course_code": "23CSAEC510",
+              "section": "5B",
+              "units": 2
+            },
+            {
+              "course_code": "23CSAEC510",
+              "section": "5D",
+              "units": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_drjayalakshmi_ds",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "drjayalakshmi_ds",
+        "name": "Dr.Jayalakshmi D.S",
+        "designation": "Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 0,
+          "max_units": 18,
+          "remaining_units": 18,
+          "is_within_limit": true,
+          "courses": []
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_drshilpa_s_chaudhari",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "drshilpa_s_chaudhari",
+        "name": "Dr.Shilpa S Chaudhari",
+        "designation": "Associate Professor",
+        "max_units": 28,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 24,
+          "max_units": 28,
+          "remaining_units": 4,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "23CSE5511",
+              "section": "5A",
+              "units": 6
+            },
+            {
+              "course_code": "23CSE5511",
+              "section": "5B",
+              "units": 6
+            },
+            {
+              "course_code": "23CSE5511",
+              "section": "5C",
+              "units": 6
+            },
+            {
+              "course_code": "23CSE5511",
+              "section": "5D",
+              "units": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_drtn_r_kumar",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "drtn_r_kumar",
+        "name": "Dr.T.N R. Kumar",
+        "designation": "Associate Professor",
+        "max_units": 28,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 12,
+          "max_units": 28,
+          "remaining_units": 16,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "23AL58",
+              "section": "5A",
+              "units": 6
+            },
+            {
+              "course_code": "23CS51",
+              "section": "5B",
+              "units": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_drrajarajeswari_s",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "drrajarajeswari_s",
+        "name": "Dr.Rajarajeswari S",
+        "designation": "Associate Professor",
+        "max_units": 24,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 16,
+          "max_units": 24,
+          "remaining_units": 8,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "24CS34",
+              "section": "3A",
+              "units": 6
+            },
+            {
+              "course_code": "24CSL37",
+              "section": "3A",
+              "units": 2
+            },
+            {
+              "course_code": "23CS52",
+              "section": "5A",
+              "units": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_drjsangeetha",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "drjsangeetha",
+        "name": "Dr.J.Sangeetha",
+        "designation": "Associate Professor",
+        "max_units": 24,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 16,
+          "max_units": 24,
+          "remaining_units": 8,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "24CS33",
+              "section": "3C",
+              "units": 6
+            },
+            {
+              "course_code": "24CSL36",
+              "section": "3C",
+              "units": 2
+            },
+            {
+              "course_code": "23CS52",
+              "section": "5C",
+              "units": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_dra_parkavi",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "dra_parkavi",
+        "name": "Dr.A Parkavi",
+        "designation": "Associate Professor",
+        "max_units": 28,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 18,
+          "max_units": 28,
+          "remaining_units": 10,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "24UHV38",
+              "section": "3A",
+              "units": 4
+            },
+            {
+              "course_code": "23CS54",
+              "section": "5B",
+              "units": 8
+            },
+            {
+              "course_code": "23CS51",
+              "section": "5D",
+              "units": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_drj_geetha",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "drj_geetha",
+        "name": "Dr.J Geetha",
+        "designation": "Associate Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 8,
+          "max_units": 18,
+          "remaining_units": 10,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "24CS35",
+              "section": "3A",
+              "units": 4
+            },
+            {
+              "course_code": "24CS35_TUT",
+              "section": "3A",
+              "units": 2
+            },
+            {
+              "course_code": "23CSL57",
+              "section": "5B",
+              "units": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_drdayananda_r_b",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "drdayananda_r_b",
+        "name": "Dr.Dayananda R B",
+        "designation": "Associate Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 8,
+          "max_units": 18,
+          "remaining_units": 10,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "23CS53",
+              "section": "5B",
+              "units": 4
+            },
+            {
+              "course_code": "23CS53_TUT",
+              "section": "5B",
+              "units": 2
+            },
+            {
+              "course_code": "23CSL56",
+              "section": "5B",
+              "units": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_drsangeetha_v",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "drsangeetha_v",
+        "name": "Dr.Sangeetha V",
+        "designation": "Associate Professor",
+        "max_units": 28,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 28,
+          "max_units": 28,
+          "remaining_units": 0,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "24CS35",
+              "section": "3D",
+              "units": 4
+            },
+            {
+              "course_code": "24CS35_TUT",
+              "section": "3D",
+              "units": 2
+            },
+            {
+              "course_code": "23CS54",
+              "section": "5A",
+              "units": 8
+            },
+            {
+              "course_code": "23CSE551",
+              "section": "5B",
+              "units": 6
+            },
+            {
+              "course_code": "23CS53",
+              "section": "5D",
+              "units": 4
+            },
+            {
+              "course_code": "23CS53_TUT",
+              "section": "5D",
+              "units": 2
+            },
+            {
+              "course_code": "23CSL56",
+              "section": "5D",
+              "units": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_veena_gs",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "veena_gs",
+        "name": "Veena GS",
+        "designation": "Assistant Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 10,
+          "max_units": 18,
+          "remaining_units": 8,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "24UHV38",
+              "section": "3B",
+              "units": 4
+            },
+            {
+              "course_code": "23AL58",
+              "section": "5C",
+              "units": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_mallegowda_m",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "mallegowda_m",
+        "name": "Mallegowda M",
+        "designation": "Assistant Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 6,
+          "max_units": 18,
+          "remaining_units": 12,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "24UHV38",
+              "section": "3C",
+              "units": 4
+            },
+            {
+              "course_code": "23CSL57",
+              "section": "5D",
+              "units": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_drhv_divakar",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "drhv_divakar",
+        "name": "Dr.H.V. Divakar",
+        "designation": "Assistant Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 0,
+          "max_units": 18,
+          "remaining_units": 18,
+          "is_within_limit": true,
+          "courses": []
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_chandrika_prasad",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "chandrika_prasad",
+        "name": "Chandrika Prasad",
+        "designation": "Assistant Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 10,
+          "max_units": 18,
+          "remaining_units": 8,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "24CSAEC310",
+              "section": "3C",
+              "units": 2
+            },
+            {
+              "course_code": "23CS54",
+              "section": "5D",
+              "units": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_pramod_c_sunagar",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "pramod_c_sunagar",
+        "name": "Pramod C Sunagar",
+        "designation": "Assistant Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 0,
+          "max_units": 18,
+          "remaining_units": 18,
+          "is_within_limit": true,
+          "courses": []
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_pradeep_kumar_d",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "pradeep_kumar_d",
+        "name": "Pradeep kumar D",
+        "designation": "Assistant Professor",
+        "max_units": 28,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 14,
+          "max_units": 28,
+          "remaining_units": 14,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "24CS34",
+              "section": "3D",
+              "units": 6
+            },
+            {
+              "course_code": "24CSL37",
+              "section": "3D",
+              "units": 2
+            },
+            {
+              "course_code": "23CS51",
+              "section": "5C",
+              "units": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_drganeshayya_i_shidaganti",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "drganeshayya_i_shidaganti",
+        "name": "Dr.Ganeshayya I Shidaganti",
+        "designation": "Assistant Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 0,
+          "max_units": 18,
+          "remaining_units": 18,
+          "is_within_limit": true,
+          "courses": []
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_darshana_a_naik",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "darshana_a_naik",
+        "name": "Darshana A Naik",
+        "designation": "Assistant Professor",
+        "max_units": 28,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 14,
+          "max_units": 28,
+          "remaining_units": 14,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "23CS51",
+              "section": "5A",
+              "units": 6
+            },
+            {
+              "course_code": "23CS54",
+              "section": "5C",
+              "units": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_shilpa_hariraj",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "shilpa_hariraj",
+        "name": "Shilpa Hariraj",
+        "designation": "Assistant Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 0,
+          "max_units": 18,
+          "remaining_units": 18,
+          "is_within_limit": true,
+          "courses": []
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_jamuna_s_murthy",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "jamuna_s_murthy",
+        "name": "Jamuna S Murthy",
+        "designation": "Assistant Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 16,
+          "max_units": 18,
+          "remaining_units": 2,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "23CS52",
+              "section": "5B",
+              "units": 8
+            },
+            {
+              "course_code": "23CS52",
+              "section": "5D",
+              "units": 8
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_sushma_b",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "sushma_b",
+        "name": "Sushma B",
+        "designation": "Assistant Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 0,
+          "max_units": 18,
+          "remaining_units": 18,
+          "is_within_limit": true,
+          "courses": []
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_nandini_s_b",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "nandini_s_b",
+        "name": "Nandini S B",
+        "designation": "Assistant Professor",
+        "max_units": 28,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 14,
+          "max_units": 28,
+          "remaining_units": 14,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "24CS33",
+              "section": "3D",
+              "units": 6
+            },
+            {
+              "course_code": "24CSL36",
+              "section": "3D",
+              "units": 2
+            },
+            {
+              "course_code": "23CSE551",
+              "section": "5A",
+              "units": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_chetan_d_s",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "chetan_d_s",
+        "name": "Chetan D S",
+        "designation": "Assistant Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 0,
+          "max_units": 18,
+          "remaining_units": 18,
+          "is_within_limit": true,
+          "courses": []
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_soumya_c_s",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "soumya_c_s",
+        "name": "Soumya C S",
+        "designation": "Assistant Professor",
+        "max_units": 28,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 16,
+          "max_units": 28,
+          "remaining_units": 12,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "24CS35",
+              "section": "3B",
+              "units": 4
+            },
+            {
+              "course_code": "24CS35_TUT",
+              "section": "3B",
+              "units": 2
+            },
+            {
+              "course_code": "24UHV38",
+              "section": "3D",
+              "units": 4
+            },
+            {
+              "course_code": "23CSE551",
+              "section": "5C",
+              "units": 6
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_manjula_l",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "manjula_l",
+        "name": "Manjula L",
+        "designation": "Assistant Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 0,
+          "max_units": 18,
+          "remaining_units": 18,
+          "is_within_limit": true,
+          "courses": []
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_akshata_s_bhayyar",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "akshata_s_bhayyar",
+        "name": "Akshata S Bhayyar",
+        "designation": "Assistant Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 0,
+          "max_units": 18,
+          "remaining_units": 18,
+          "is_within_limit": true,
+          "courses": []
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_vishwachetan_d",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "vishwachetan_d",
+        "name": "Vishwachetan D",
+        "designation": "Assistant Professor",
+        "max_units": 18,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 2,
+          "max_units": 18,
+          "remaining_units": 16,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "23CSL57",
+              "section": "5C",
+              "units": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_mamatha_a",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "mamatha_a",
+        "name": "Mamatha A",
+        "designation": "Senior Lecturer",
+        "max_units": 28,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 16,
+          "max_units": 28,
+          "remaining_units": 12,
+          "is_within_limit": true,
+          "courses": [
+            {
+              "course_code": "24CS34",
+              "section": "3B",
+              "units": 6
+            },
+            {
+              "course_code": "24CSL37",
+              "section": "3B",
+              "units": 2
+            },
+            {
+              "course_code": "24CS35",
+              "section": "3C",
+              "units": 4
+            },
+            {
+              "course_code": "24CS35_TUT",
+              "section": "3C",
+              "units": 2
+            },
+            {
+              "course_code": "24CSAEC310",
+              "section": "3D",
+              "units": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "constraint_id": "FAC_pallavi_n",
+      "constraint_type": "faculty",
+      "parameters": {
+        "faculty_id": "pallavi_n",
+        "name": "Pallavi N",
+        "designation": "Senior Lecturer",
+        "max_units": 28,
+        "courses": [],
+        "calculated_workload": {
+          "total_units": 0,
+          "max_units": 28,
+          "remaining_units": 28,
+          "is_within_limit": true,
+          "courses": []
+        }
+      }
+    }
+  ],
+  "course_constraints": [
+    {
+      "constraint_id": "SUB_24CS33_3A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS33",
+        "course_code": "24CS33",
+        "course_name": "Data Structures (3:0:0)",
+        "section": "3A",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "akshata_kamath"
+        ],
+        "faculty_id": "akshata_kamath"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS34_3A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS34",
+        "course_code": "24CS34",
+        "course_name": "Object Oriented Programming(3:0:0)",
+        "section": "3A",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "drrajarajeswari_s"
+        ],
+        "faculty_id": "drrajarajeswari_s"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS35_3A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS35",
+        "course_code": "24CS35",
+        "course_name": "Discrete Mathematical Structures (2:0:0)",
+        "section": "3A",
+        "weekly_lectures": 2,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 2,
+        "faculty_ids": [
+          "drj_geetha"
+        ],
+        "faculty_id": "drj_geetha"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS35_TUT_3A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS35_TUT",
+        "course_code": "24CS35_TUT",
+        "course_name": "DMS TUT (0:1:0)",
+        "section": "3A",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 1,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "drj_geetha"
+        ],
+        "faculty_id": "drj_geetha",
+        "rules": {
+          "tutorial_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          },
+          "lab_rule": null
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24CSL36_3A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CSL36",
+        "course_code": "24CSL36",
+        "course_name": "Data Structures Laboratory (0:0:1)",
+        "section": "3A",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "akshata_kamath"
+        ],
+        "faculty_id": "akshata_kamath",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24CSL37_3A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CSL37",
+        "course_code": "24CSL37",
+        "course_name": "OOP Laboratory (0:0:1)",
+        "section": "3A",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "drrajarajeswari_s"
+        ],
+        "faculty_id": "drrajarajeswari_s",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24UHV38_3A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24UHV38",
+        "course_code": "24UHV38",
+        "course_name": "Universal Human Value Course (2:0:0)",
+        "section": "3A",
+        "weekly_lectures": 2,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 2,
+        "faculty_ids": [
+          "dra_parkavi"
+        ],
+        "faculty_id": "dra_parkavi"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CSAEC310_3A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CSAEC310",
+        "course_code": "24CSAEC310",
+        "course_name": "Unix and Shell Programming (1:0:0)",
+        "section": "3A",
+        "weekly_lectures": 1,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "drmonica_r_mundada"
+        ],
+        "faculty_id": "drmonica_r_mundada"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS32_3A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS32",
+        "course_code": "24CS32",
+        "course_name": "Digital Design and Computer Organization (3:0:1)",
+        "section": "3A",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 4,
+        "faculty_ids": [
+          "drmonica_r_mundada"
+        ],
+        "faculty_id": "drmonica_r_mundada",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS33_3B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS33",
+        "course_code": "24CS33",
+        "course_name": "Data Structures (3:0:0)",
+        "section": "3B",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "drsushma_b"
+        ],
+        "faculty_id": "drsushma_b"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS34_3B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS34",
+        "course_code": "24CS34",
+        "course_name": "Object Oriented Programming(3:0:0)",
+        "section": "3B",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "mamatha_a"
+        ],
+        "faculty_id": "mamatha_a"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS35_3B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS35",
+        "course_code": "24CS35",
+        "course_name": "Discrete Mathematical Structures (2:0:0)",
+        "section": "3B",
+        "weekly_lectures": 2,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 2,
+        "faculty_ids": [
+          "soumya_c_s"
+        ],
+        "faculty_id": "soumya_c_s"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS35_TUT_3B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS35_TUT",
+        "course_code": "24CS35_TUT",
+        "course_name": "DMS TUT (0:1:0)",
+        "section": "3B",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 1,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "soumya_c_s"
+        ],
+        "faculty_id": "soumya_c_s",
+        "rules": {
+          "tutorial_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          },
+          "lab_rule": null
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24CSL36_3B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CSL36",
+        "course_code": "24CSL36",
+        "course_name": "Data Structures Laboratory (0:0:1)",
+        "section": "3B",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "drsushma_b"
+        ],
+        "faculty_id": "drsushma_b",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24CSL37_3B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CSL37",
+        "course_code": "24CSL37",
+        "course_name": "OOP Laboratory (0:0:1)",
+        "section": "3B",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "mamatha_a"
+        ],
+        "faculty_id": "mamatha_a",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24UHV38_3B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24UHV38",
+        "course_code": "24UHV38",
+        "course_name": "Universal Human Value Course (2:0:0)",
+        "section": "3B",
+        "weekly_lectures": 2,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 2,
+        "faculty_ids": [
+          "veena_gs"
+        ],
+        "faculty_id": "veena_gs"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CSAEC310_3B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CSAEC310",
+        "course_code": "24CSAEC310",
+        "course_name": "Unix and Shell Programming (1:0:0)",
+        "section": "3B",
+        "weekly_lectures": 1,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "priya_k"
+        ],
+        "faculty_id": "priya_k"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS32_3B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS32",
+        "course_code": "24CS32",
+        "course_name": "Digital Design and Computer Organization (3:0:1)",
+        "section": "3B",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 4,
+        "faculty_ids": [
+          "drakshata_s_bhayyar"
+        ],
+        "faculty_id": "drakshata_s_bhayyar",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS33_3C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS33",
+        "course_code": "24CS33",
+        "course_name": "Data Structures (3:0:0)",
+        "section": "3C",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "drjsangeetha"
+        ],
+        "faculty_id": "drjsangeetha"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS34_3C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS34",
+        "course_code": "24CS34",
+        "course_name": "Object Oriented Programming(3:0:0)",
+        "section": "3C",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "prof_nagabhushan_a_m"
+        ],
+        "faculty_id": "prof_nagabhushan_a_m"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS35_3C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS35",
+        "course_code": "24CS35",
+        "course_name": "Discrete Mathematical Structures (2:0:0)",
+        "section": "3C",
+        "weekly_lectures": 2,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 2,
+        "faculty_ids": [
+          "mamatha_a"
+        ],
+        "faculty_id": "mamatha_a"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS35_TUT_3C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS35_TUT",
+        "course_code": "24CS35_TUT",
+        "course_name": "DMS TUT (0:1:0)",
+        "section": "3C",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 1,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "mamatha_a"
+        ],
+        "faculty_id": "mamatha_a",
+        "rules": {
+          "tutorial_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          },
+          "lab_rule": null
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24CSL36_3C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CSL36",
+        "course_code": "24CSL36",
+        "course_name": "Data Structures Laboratory (0:0:1)",
+        "section": "3C",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "drjsangeetha"
+        ],
+        "faculty_id": "drjsangeetha",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24CSL37_3C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CSL37",
+        "course_code": "24CSL37",
+        "course_name": "OOP Laboratory (0:0:1)",
+        "section": "3C",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "prof_nagabhushan_a_m"
+        ],
+        "faculty_id": "prof_nagabhushan_a_m",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24UHV38_3C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24UHV38",
+        "course_code": "24UHV38",
+        "course_name": "Universal Human Value Course (2:0:0)",
+        "section": "3C",
+        "weekly_lectures": 2,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 2,
+        "faculty_ids": [
+          "mallegowda_m"
+        ],
+        "faculty_id": "mallegowda_m"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CSAEC310_3C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CSAEC310",
+        "course_code": "24CSAEC310",
+        "course_name": "Unix and Shell Programming (1:0:0)",
+        "section": "3C",
+        "weekly_lectures": 1,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "chandrika_prasad"
+        ],
+        "faculty_id": "chandrika_prasad"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS32_3C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS32",
+        "course_code": "24CS32",
+        "course_name": "Digital Design and Computer Organization (3:0:1)",
+        "section": "3C",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 4,
+        "faculty_ids": [
+          "drmonica_r_mundada"
+        ],
+        "faculty_id": "drmonica_r_mundada",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS33_3D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS33",
+        "course_code": "24CS33",
+        "course_name": "Data Structures (3:0:0)",
+        "section": "3D",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "nandini_s_b"
+        ],
+        "faculty_id": "nandini_s_b"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS34_3D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS34",
+        "course_code": "24CS34",
+        "course_name": "Object Oriented Programming(3:0:0)",
+        "section": "3D",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "pradeep_kumar_d"
+        ],
+        "faculty_id": "pradeep_kumar_d"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS35_3D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS35",
+        "course_code": "24CS35",
+        "course_name": "Discrete Mathematical Structures (2:0:0)",
+        "section": "3D",
+        "weekly_lectures": 2,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 2,
+        "faculty_ids": [
+          "drsangeetha_v"
+        ],
+        "faculty_id": "drsangeetha_v"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS35_TUT_3D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS35_TUT",
+        "course_code": "24CS35_TUT",
+        "course_name": "DMS TUT (0:1:0)",
+        "section": "3D",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 1,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "drsangeetha_v"
+        ],
+        "faculty_id": "drsangeetha_v",
+        "rules": {
+          "tutorial_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          },
+          "lab_rule": null
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24CSL36_3D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CSL36",
+        "course_code": "24CSL36",
+        "course_name": "Data Structures Laboratory (0:0:1)",
+        "section": "3D",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "nandini_s_b"
+        ],
+        "faculty_id": "nandini_s_b",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24CSL37_3D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CSL37",
+        "course_code": "24CSL37",
+        "course_name": "OOP Laboratory (0:0:1)",
+        "section": "3D",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "pradeep_kumar_d"
+        ],
+        "faculty_id": "pradeep_kumar_d",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_24UHV38_3D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24UHV38",
+        "course_code": "24UHV38",
+        "course_name": "Universal Human Value Course (2:0:0)",
+        "section": "3D",
+        "weekly_lectures": 2,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 2,
+        "faculty_ids": [
+          "soumya_c_s"
+        ],
+        "faculty_id": "soumya_c_s"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CSAEC310_3D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CSAEC310",
+        "course_code": "24CSAEC310",
+        "course_name": "Unix and Shell Programming (1:0:0)",
+        "section": "3D",
+        "weekly_lectures": 1,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "mamatha_a"
+        ],
+        "faculty_id": "mamatha_a"
+      }
+    },
+    {
+      "constraint_id": "SUB_24CS32_3D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "24CS32",
+        "course_code": "24CS32",
+        "course_name": "Digital Design and Computer Organization (3:0:1)",
+        "section": "3D",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 4,
+        "faculty_ids": [
+          "drakshata_s_bhayyar"
+        ],
+        "faculty_id": "drakshata_s_bhayyar",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS52_5A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS52",
+        "course_code": "23CS52",
+        "course_name": "Artificial Intelligence and Machine Learning (3:0:1)",
+        "section": "5A",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 4,
+        "faculty_ids": [
+          "drrajarajeswari_s"
+        ],
+        "faculty_id": "drrajarajeswari_s",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS53_5A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS53",
+        "course_code": "23CS53",
+        "course_name": "Database Systems(2:0:0)",
+        "section": "5A",
+        "weekly_lectures": 2,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 2,
+        "faculty_ids": [
+          "drsushma_b"
+        ],
+        "faculty_id": "drsushma_b"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS53_TUT_5A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS53_TUT",
+        "course_code": "23CS53_TUT",
+        "course_name": "DBS TUT (0:1:0)",
+        "section": "5A",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 1,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "drsushma_b"
+        ],
+        "faculty_id": "drsushma_b",
+        "rules": {
+          "tutorial_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          },
+          "lab_rule": null
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS54_5A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS54",
+        "course_code": "23CS54",
+        "course_name": "Operating Systems(4:0:0)",
+        "section": "5A",
+        "weekly_lectures": 4,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 4,
+        "faculty_ids": [
+          "drsangeetha_v"
+        ],
+        "faculty_id": "drsangeetha_v"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSE551_5A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSE551",
+        "course_code": "23CSE551",
+        "course_name": "Program Elective Course – 1 Cryptography and Network Security(3:0: 0)",
+        "section": "5A",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "nandini_s_b"
+        ],
+        "faculty_id": "nandini_s_b"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSE5511_5A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSE5511",
+        "course_code": "23CSE5511",
+        "course_name": "Program Elective Course – 1 Secure Programming ( 3:0:0)",
+        "section": "5A",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "drshilpa_s_chaudhari"
+        ],
+        "faculty_id": "drshilpa_s_chaudhari"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSL56_5A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSL56",
+        "course_code": "23CSL56",
+        "course_name": "Database Laboratory (0: 0:1)",
+        "section": "5A",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "drsushma_b"
+        ],
+        "faculty_id": "drsushma_b",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSL57_5A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSL57",
+        "course_code": "23CSL57",
+        "course_name": "Full Stack Development Lab (0:0:1)",
+        "section": "5A",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "drakshata_s_bhayyar"
+        ],
+        "faculty_id": "drakshata_s_bhayyar",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23AL58_5A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23AL58",
+        "course_code": "23AL58",
+        "course_name": "Research Methodology & Intellectual property rights (3: 0: 0)",
+        "section": "5A",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "drtn_r_kumar"
+        ],
+        "faculty_id": "drtn_r_kumar"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSAEC510_5A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSAEC510",
+        "course_code": "23CSAEC510",
+        "course_name": "AEC- Project Management With GIT (1:0:0)",
+        "section": "5A",
+        "weekly_lectures": 1,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "brunda"
+        ],
+        "faculty_id": "brunda"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS51_5A",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS51",
+        "course_code": "23CS51",
+        "course_name": "Software Engineering & Modeling (3:0:0)",
+        "section": "5A",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "darshana_a_naik"
+        ],
+        "faculty_id": "darshana_a_naik"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS52_5B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS52",
+        "course_code": "23CS52",
+        "course_name": "Artificial Intelligence and Machine Learning (3:0:1)",
+        "section": "5B",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 4,
+        "faculty_ids": [
+          "jamuna_s_murthy"
+        ],
+        "faculty_id": "jamuna_s_murthy",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS53_5B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS53",
+        "course_code": "23CS53",
+        "course_name": "Database Systems(2:0:0)",
+        "section": "5B",
+        "weekly_lectures": 2,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 2,
+        "faculty_ids": [
+          "drdayananda_r_b"
+        ],
+        "faculty_id": "drdayananda_r_b"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS53_TUT_5B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS53_TUT",
+        "course_code": "23CS53_TUT",
+        "course_name": "DBS TUT (0:1:0)",
+        "section": "5B",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 1,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "drdayananda_r_b"
+        ],
+        "faculty_id": "drdayananda_r_b",
+        "rules": {
+          "tutorial_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          },
+          "lab_rule": null
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS54_5B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS54",
+        "course_code": "23CS54",
+        "course_name": "Operating Systems(4:0:0)",
+        "section": "5B",
+        "weekly_lectures": 4,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 4,
+        "faculty_ids": [
+          "dra_parkavi"
+        ],
+        "faculty_id": "dra_parkavi"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSE551_5B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSE551",
+        "course_code": "23CSE551",
+        "course_name": "Program Elective Course – 1 Cryptography and Network Security(3:0: 0)",
+        "section": "5B",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "drsangeetha_v"
+        ],
+        "faculty_id": "drsangeetha_v"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSE5511_5B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSE5511",
+        "course_code": "23CSE5511",
+        "course_name": "Program Elective Course – 1 Secure Programming ( 3:0:0)",
+        "section": "5B",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "drshilpa_s_chaudhari"
+        ],
+        "faculty_id": "drshilpa_s_chaudhari"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSL56_5B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSL56",
+        "course_code": "23CSL56",
+        "course_name": "Database Laboratory (0: 0:1)",
+        "section": "5B",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "drdayananda_r_b"
+        ],
+        "faculty_id": "drdayananda_r_b",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSL57_5B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSL57",
+        "course_code": "23CSL57",
+        "course_name": "Full Stack Development Lab (0:0:1)",
+        "section": "5B",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "drj_geetha"
+        ],
+        "faculty_id": "drj_geetha",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23AL58_5B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23AL58",
+        "course_code": "23AL58",
+        "course_name": "Research Methodology & Intellectual property rights (3: 0: 0)",
+        "section": "5B",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "priya_k"
+        ],
+        "faculty_id": "priya_k"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSAEC510_5B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSAEC510",
+        "course_code": "23CSAEC510",
+        "course_name": "AEC- Project Management With GIT (1:0:0)",
+        "section": "5B",
+        "weekly_lectures": 1,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "prof_nagabhushan_a_m"
+        ],
+        "faculty_id": "prof_nagabhushan_a_m"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS51_5B",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS51",
+        "course_code": "23CS51",
+        "course_name": "Software Engineering & Modeling (3:0:0)",
+        "section": "5B",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "drtn_r_kumar"
+        ],
+        "faculty_id": "drtn_r_kumar"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS52_5C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS52",
+        "course_code": "23CS52",
+        "course_name": "Artificial Intelligence and Machine Learning (3:0:1)",
+        "section": "5C",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 4,
+        "faculty_ids": [
+          "drjsangeetha"
+        ],
+        "faculty_id": "drjsangeetha",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS53_5C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS53",
+        "course_code": "23CS53",
+        "course_name": "Database Systems(2:0:0)",
+        "section": "5C",
+        "weekly_lectures": 2,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 2,
+        "faculty_ids": [
+          "akshata_kamath"
+        ],
+        "faculty_id": "akshata_kamath"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS53_TUT_5C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS53_TUT",
+        "course_code": "23CS53_TUT",
+        "course_name": "DBS TUT (0:1:0)",
+        "section": "5C",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 1,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "akshata_kamath"
+        ],
+        "faculty_id": "akshata_kamath",
+        "rules": {
+          "tutorial_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          },
+          "lab_rule": null
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS54_5C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS54",
+        "course_code": "23CS54",
+        "course_name": "Operating Systems(4:0:0)",
+        "section": "5C",
+        "weekly_lectures": 4,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 4,
+        "faculty_ids": [
+          "darshana_a_naik"
+        ],
+        "faculty_id": "darshana_a_naik"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSE551_5C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSE551",
+        "course_code": "23CSE551",
+        "course_name": "Program Elective Course – 1 Cryptography and Network Security(3:0: 0)",
+        "section": "5C",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "soumya_c_s"
+        ],
+        "faculty_id": "soumya_c_s"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSE5511_5C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSE5511",
+        "course_code": "23CSE5511",
+        "course_name": "Program Elective Course – 1 Secure Programming ( 3:0:0)",
+        "section": "5C",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "drshilpa_s_chaudhari"
+        ],
+        "faculty_id": "drshilpa_s_chaudhari"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSL56_5C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSL56",
+        "course_code": "23CSL56",
+        "course_name": "Database Laboratory (0: 0:1)",
+        "section": "5C",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "akshata_kamath"
+        ],
+        "faculty_id": "akshata_kamath",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSL57_5C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSL57",
+        "course_code": "23CSL57",
+        "course_name": "Full Stack Development Lab (0:0:1)",
+        "section": "5C",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "vishwachetan_d"
+        ],
+        "faculty_id": "vishwachetan_d",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23AL58_5C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23AL58",
+        "course_code": "23AL58",
+        "course_name": "Research Methodology & Intellectual property rights (3: 0: 0)",
+        "section": "5C",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "veena_gs"
+        ],
+        "faculty_id": "veena_gs"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSAEC510_5C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSAEC510",
+        "course_code": "23CSAEC510",
+        "course_name": "AEC- Project Management With GIT (1:0:0)",
+        "section": "5C",
+        "weekly_lectures": 1,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "brunda"
+        ],
+        "faculty_id": "brunda"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS51_5C",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS51",
+        "course_code": "23CS51",
+        "course_name": "Software Engineering & Modeling (3:0:0)",
+        "section": "5C",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "pradeep_kumar_d"
+        ],
+        "faculty_id": "pradeep_kumar_d"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS52_5D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS52",
+        "course_code": "23CS52",
+        "course_name": "Artificial Intelligence and Machine Learning (3:0:1)",
+        "section": "5D",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 4,
+        "faculty_ids": [
+          "jamuna_s_murthy"
+        ],
+        "faculty_id": "jamuna_s_murthy",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS53_5D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS53",
+        "course_code": "23CS53",
+        "course_name": "Database Systems(2:0:0)",
+        "section": "5D",
+        "weekly_lectures": 2,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 2,
+        "faculty_ids": [
+          "drsangeetha_v"
+        ],
+        "faculty_id": "drsangeetha_v"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS53_TUT_5D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS53_TUT",
+        "course_code": "23CS53_TUT",
+        "course_name": "DBS TUT (0:1:0)",
+        "section": "5D",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 1,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "drsangeetha_v"
+        ],
+        "faculty_id": "drsangeetha_v",
+        "rules": {
+          "tutorial_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          },
+          "lab_rule": null
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS54_5D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS54",
+        "course_code": "23CS54",
+        "course_name": "Operating Systems(4:0:0)",
+        "section": "5D",
+        "weekly_lectures": 4,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 4,
+        "faculty_ids": [
+          "chandrika_prasad"
+        ],
+        "faculty_id": "chandrika_prasad"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSE5511_5D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSE5511",
+        "course_code": "23CSE5511",
+        "course_name": "Program Elective Course – 1 Secure Programming ( 3:0:0)",
+        "section": "5D",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "drshilpa_s_chaudhari"
+        ],
+        "faculty_id": "drshilpa_s_chaudhari"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSL56_5D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSL56",
+        "course_code": "23CSL56",
+        "course_name": "Database Laboratory (0: 0:1)",
+        "section": "5D",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "drsangeetha_v"
+        ],
+        "faculty_id": "drsangeetha_v",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSL57_5D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSL57",
+        "course_code": "23CSL57",
+        "course_name": "Full Stack Development Lab (0:0:1)",
+        "section": "5D",
+        "weekly_lectures": 0,
+        "weekly_tutorials": 0,
+        "weekly_labs": 1,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "mallegowda_m"
+        ],
+        "faculty_id": "mallegowda_m",
+        "rules": {
+          "tutorial_rule": null,
+          "lab_rule": {
+            "type": "consecutive_slots",
+            "duration_slots": 2,
+            "units_per_session": 2,
+            "count": 1
+          }
+        }
+      }
+    },
+    {
+      "constraint_id": "SUB_23AL58_5D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23AL58",
+        "course_code": "23AL58",
+        "course_name": "Research Methodology & Intellectual property rights (3: 0: 0)",
+        "section": "5D",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "priya_k"
+        ],
+        "faculty_id": "priya_k"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CSAEC510_5D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CSAEC510",
+        "course_code": "23CSAEC510",
+        "course_name": "AEC- Project Management With GIT (1:0:0)",
+        "section": "5D",
+        "weekly_lectures": 1,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 1,
+        "faculty_ids": [
+          "prof_nagabhushan_a_m"
+        ],
+        "faculty_id": "prof_nagabhushan_a_m"
+      }
+    },
+    {
+      "constraint_id": "SUB_23CS51_5D",
+      "constraint_type": "subject",
+      "parameters": {
+        "course_id": "23CS51",
+        "course_code": "23CS51",
+        "course_name": "Software Engineering & Modeling (3:0:0)",
+        "section": "5D",
+        "weekly_lectures": 3,
+        "weekly_tutorials": 0,
+        "weekly_labs": 0,
+        "total_slots_per_week": 3,
+        "faculty_ids": [
+          "dra_parkavi"
+        ],
+        "faculty_id": "dra_parkavi"
+      }
+    }
+  ],
+  "timetable_constraints": [
+    {
+      "constraint_id": "FIXED_EVENTS",
+      "constraint_type": "fixed_slots",
+      "parameters": {
+        "events": {
+          "Monday": {
+            "15:35-16:30": {
+              "event": "Industry Talk/Training",
+              "sections": [
+                "3A",
+                "3B",
+                "3C",
+                "3D",
+                "5A",
+                "5B",
+                "5C",
+                "5D"
+              ]
+            }
+          },
+          "Friday": {
+            "13:45-14:40": {
+              "event": "Proctor Meeting",
+              "sections": [
+                "3A",
+                "3B",
+                "3C",
+                "3D",
+                "5A",
+                "5B",
+                "5C",
+                "5D"
+              ]
+            }
+          }
+        },
+        "description": "Fixed events that occupy time slots across all sections"
+      }
+    },
+    {
+      "constraint_id": "BREAK_TIMES",
+      "constraint_type": "fixed_breaks",
+      "parameters": {
+        "breaks": {
+          "morning_break": {
+            "start": "10:50",
+            "end": "11:05",
+            "duration_minutes": 15
+          },
+          "lunch_break": {
+            "start": "12:55",
+            "end": "13:45",
+            "duration_minutes": 50
+          }
+        },
+        "description": "Fixed break times when no classes can be scheduled"
+      }
+    }
+  ],
+  "solver_config": {
+    "solver_config": {
+      "time_slots_per_day": 7,
+      "days_per_week": 5,
+      "total_time_slots": 35,
+      "sections": [
+        "3A",
+        "3B",
+        "3C",
+        "3D",
+        "5A",
+        "5B",
+        "5C",
+        "5D"
+      ],
+      "slot_duration_minutes": 55,
+      "lunch_break": {
+        "start": "12:55",
+        "end": "13:45"
+      },
+      "morning_break": {
+        "start": "10:50",
+        "end": "11:05"
+      },
+      "units_per_slot": 2,
+      "units_per_consecutive_slots": 2
+    }
+  },
+  "workload_validation": [
+    {
+      "faculty_id": "drannapurna_p_patil",
+      "name": "Dr.Annapurna P. Patil",
+      "designation": "Head & Professor",
+      "total_units": 0,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 18,
+      "excess": 0
+    },
+    {
+      "faculty_id": "drmonica_r_mundada",
+      "name": "Dr.Monica R Mundada",
+      "designation": "Professor",
+      "total_units": 18,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 0,
+      "excess": 0
+    },
+    {
+      "faculty_id": "prof_nagabhushan_a_m",
+      "name": "Prof. Nagabhushan A M",
+      "designation": "Professor",
+      "total_units": 12,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 6,
+      "excess": 0
+    },
+    {
+      "faculty_id": "drjayalakshmi_ds",
+      "name": "Dr.Jayalakshmi D.S",
+      "designation": "Professor",
+      "total_units": 0,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 18,
+      "excess": 0
+    },
+    {
+      "faculty_id": "drshilpa_s_chaudhari",
+      "name": "Dr.Shilpa S Chaudhari",
+      "designation": "Associate Professor",
+      "total_units": 24,
+      "max_units": 28,
+      "is_within_limit": true,
+      "shortfall": 4,
+      "excess": 0
+    },
+    {
+      "faculty_id": "drtn_r_kumar",
+      "name": "Dr.T.N R. Kumar",
+      "designation": "Associate Professor",
+      "total_units": 12,
+      "max_units": 28,
+      "is_within_limit": true,
+      "shortfall": 16,
+      "excess": 0
+    },
+    {
+      "faculty_id": "drrajarajeswari_s",
+      "name": "Dr.Rajarajeswari S",
+      "designation": "Associate Professor",
+      "total_units": 16,
+      "max_units": 24,
+      "is_within_limit": true,
+      "shortfall": 8,
+      "excess": 0
+    },
+    {
+      "faculty_id": "drjsangeetha",
+      "name": "Dr.J.Sangeetha",
+      "designation": "Associate Professor",
+      "total_units": 16,
+      "max_units": 24,
+      "is_within_limit": true,
+      "shortfall": 8,
+      "excess": 0
+    },
+    {
+      "faculty_id": "dra_parkavi",
+      "name": "Dr.A Parkavi",
+      "designation": "Associate Professor",
+      "total_units": 18,
+      "max_units": 28,
+      "is_within_limit": true,
+      "shortfall": 10,
+      "excess": 0
+    },
+    {
+      "faculty_id": "drj_geetha",
+      "name": "Dr.J Geetha",
+      "designation": "Associate Professor",
+      "total_units": 8,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 10,
+      "excess": 0
+    },
+    {
+      "faculty_id": "drdayananda_r_b",
+      "name": "Dr.Dayananda R B",
+      "designation": "Associate Professor",
+      "total_units": 8,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 10,
+      "excess": 0
+    },
+    {
+      "faculty_id": "drsangeetha_v",
+      "name": "Dr.Sangeetha V",
+      "designation": "Associate Professor",
+      "total_units": 28,
+      "max_units": 28,
+      "is_within_limit": true,
+      "shortfall": 0,
+      "excess": 0
+    },
+    {
+      "faculty_id": "veena_gs",
+      "name": "Veena GS",
+      "designation": "Assistant Professor",
+      "total_units": 10,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 8,
+      "excess": 0
+    },
+    {
+      "faculty_id": "mallegowda_m",
+      "name": "Mallegowda M",
+      "designation": "Assistant Professor",
+      "total_units": 6,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 12,
+      "excess": 0
+    },
+    {
+      "faculty_id": "drhv_divakar",
+      "name": "Dr.H.V. Divakar",
+      "designation": "Assistant Professor",
+      "total_units": 0,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 18,
+      "excess": 0
+    },
+    {
+      "faculty_id": "chandrika_prasad",
+      "name": "Chandrika Prasad",
+      "designation": "Assistant Professor",
+      "total_units": 10,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 8,
+      "excess": 0
+    },
+    {
+      "faculty_id": "pramod_c_sunagar",
+      "name": "Pramod C Sunagar",
+      "designation": "Assistant Professor",
+      "total_units": 0,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 18,
+      "excess": 0
+    },
+    {
+      "faculty_id": "pradeep_kumar_d",
+      "name": "Pradeep kumar D",
+      "designation": "Assistant Professor",
+      "total_units": 14,
+      "max_units": 28,
+      "is_within_limit": true,
+      "shortfall": 14,
+      "excess": 0
+    },
+    {
+      "faculty_id": "drganeshayya_i_shidaganti",
+      "name": "Dr.Ganeshayya I Shidaganti",
+      "designation": "Assistant Professor",
+      "total_units": 0,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 18,
+      "excess": 0
+    },
+    {
+      "faculty_id": "darshana_a_naik",
+      "name": "Darshana A Naik",
+      "designation": "Assistant Professor",
+      "total_units": 14,
+      "max_units": 28,
+      "is_within_limit": true,
+      "shortfall": 14,
+      "excess": 0
+    },
+    {
+      "faculty_id": "shilpa_hariraj",
+      "name": "Shilpa Hariraj",
+      "designation": "Assistant Professor",
+      "total_units": 0,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 18,
+      "excess": 0
+    },
+    {
+      "faculty_id": "jamuna_s_murthy",
+      "name": "Jamuna S Murthy",
+      "designation": "Assistant Professor",
+      "total_units": 16,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 2,
+      "excess": 0
+    },
+    {
+      "faculty_id": "sushma_b",
+      "name": "Sushma B",
+      "designation": "Assistant Professor",
+      "total_units": 0,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 18,
+      "excess": 0
+    },
+    {
+      "faculty_id": "nandini_s_b",
+      "name": "Nandini S B",
+      "designation": "Assistant Professor",
+      "total_units": 14,
+      "max_units": 28,
+      "is_within_limit": true,
+      "shortfall": 14,
+      "excess": 0
+    },
+    {
+      "faculty_id": "chetan_d_s",
+      "name": "Chetan D S",
+      "designation": "Assistant Professor",
+      "total_units": 0,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 18,
+      "excess": 0
+    },
+    {
+      "faculty_id": "soumya_c_s",
+      "name": "Soumya C S",
+      "designation": "Assistant Professor",
+      "total_units": 16,
+      "max_units": 28,
+      "is_within_limit": true,
+      "shortfall": 12,
+      "excess": 0
+    },
+    {
+      "faculty_id": "manjula_l",
+      "name": "Manjula L",
+      "designation": "Assistant Professor",
+      "total_units": 0,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 18,
+      "excess": 0
+    },
+    {
+      "faculty_id": "akshata_s_bhayyar",
+      "name": "Akshata S Bhayyar",
+      "designation": "Assistant Professor",
+      "total_units": 0,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 18,
+      "excess": 0
+    },
+    {
+      "faculty_id": "vishwachetan_d",
+      "name": "Vishwachetan D",
+      "designation": "Assistant Professor",
+      "total_units": 2,
+      "max_units": 18,
+      "is_within_limit": true,
+      "shortfall": 16,
+      "excess": 0
+    },
+    {
+      "faculty_id": "mamatha_a",
+      "name": "Mamatha A",
+      "designation": "Senior Lecturer",
+      "total_units": 16,
+      "max_units": 28,
+      "is_within_limit": true,
+      "shortfall": 12,
+      "excess": 0
+    },
+    {
+      "faculty_id": "pallavi_n",
+      "name": "Pallavi N",
+      "designation": "Senior Lecturer",
+      "total_units": 0,
+      "max_units": 28,
+      "is_within_limit": true,
+      "shortfall": 28,
+      "excess": 0
+    }
+  ]
+}

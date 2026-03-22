@@ -1,0 +1,573 @@
+{
+  "3A": {
+    "24CS33": {
+      "faculty_id": "akshata_kamath",
+      "course_name": "Data Structures (3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS34": {
+      "faculty_id": "drrajarajeswari_s",
+      "course_name": "Object Oriented Programming(3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS35": {
+      "faculty_id": "drj_geetha",
+      "course_name": "Discrete Mathematical Structures (2:0:0)",
+      "lectures": 2,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS35_TUT": {
+      "faculty_id": "drj_geetha",
+      "course_name": "DMS TUT (0:1:0)",
+      "lectures": 0,
+      "tutorials": 1,
+      "labs": 0
+    },
+    "24CSL36": {
+      "faculty_id": "akshata_kamath",
+      "course_name": "Data Structures Laboratory (0:0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "24CSL37": {
+      "faculty_id": "drrajarajeswari_s",
+      "course_name": "OOP Laboratory (0:0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "24UHV38": {
+      "faculty_id": "dra_parkavi",
+      "course_name": "Universal Human Value Course (2:0:0)",
+      "lectures": 2,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CSAEC310": {
+      "faculty_id": "drmonica_r_mundada",
+      "course_name": "Unix and Shell Programming (1:0:0)",
+      "lectures": 1,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS32": {
+      "faculty_id": "drmonica_r_mundada",
+      "course_name": "Digital Design and Computer Organization (3:0:1)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 1
+    }
+  },
+  "3B": {
+    "24CS33": {
+      "faculty_id": "drsushma_b",
+      "course_name": "Data Structures (3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS34": {
+      "faculty_id": "mamatha_a",
+      "course_name": "Object Oriented Programming(3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS35": {
+      "faculty_id": "soumya_c_s",
+      "course_name": "Discrete Mathematical Structures (2:0:0)",
+      "lectures": 2,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS35_TUT": {
+      "faculty_id": "soumya_c_s",
+      "course_name": "DMS TUT (0:1:0)",
+      "lectures": 0,
+      "tutorials": 1,
+      "labs": 0
+    },
+    "24CSL36": {
+      "faculty_id": "drsushma_b",
+      "course_name": "Data Structures Laboratory (0:0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "24CSL37": {
+      "faculty_id": "mamatha_a",
+      "course_name": "OOP Laboratory (0:0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "24UHV38": {
+      "faculty_id": "veena_gs",
+      "course_name": "Universal Human Value Course (2:0:0)",
+      "lectures": 2,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CSAEC310": {
+      "faculty_id": "priya_k",
+      "course_name": "Unix and Shell Programming (1:0:0)",
+      "lectures": 1,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS32": {
+      "faculty_id": "drakshata_s_bhayyar",
+      "course_name": "Digital Design and Computer Organization (3:0:1)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 1
+    }
+  },
+  "3C": {
+    "24CS33": {
+      "faculty_id": "drjsangeetha",
+      "course_name": "Data Structures (3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS34": {
+      "faculty_id": "prof_nagabhushan_a_m",
+      "course_name": "Object Oriented Programming(3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS35": {
+      "faculty_id": "mamatha_a",
+      "course_name": "Discrete Mathematical Structures (2:0:0)",
+      "lectures": 2,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS35_TUT": {
+      "faculty_id": "mamatha_a",
+      "course_name": "DMS TUT (0:1:0)",
+      "lectures": 0,
+      "tutorials": 1,
+      "labs": 0
+    },
+    "24CSL36": {
+      "faculty_id": "drjsangeetha",
+      "course_name": "Data Structures Laboratory (0:0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "24CSL37": {
+      "faculty_id": "prof_nagabhushan_a_m",
+      "course_name": "OOP Laboratory (0:0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "24UHV38": {
+      "faculty_id": "mallegowda_m",
+      "course_name": "Universal Human Value Course (2:0:0)",
+      "lectures": 2,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CSAEC310": {
+      "faculty_id": "chandrika_prasad",
+      "course_name": "Unix and Shell Programming (1:0:0)",
+      "lectures": 1,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS32": {
+      "faculty_id": "drmonica_r_mundada",
+      "course_name": "Digital Design and Computer Organization (3:0:1)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 1
+    }
+  },
+  "3D": {
+    "24CS33": {
+      "faculty_id": "nandini_s_b",
+      "course_name": "Data Structures (3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS34": {
+      "faculty_id": "pradeep_kumar_d",
+      "course_name": "Object Oriented Programming(3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS35": {
+      "faculty_id": "drsangeetha_v",
+      "course_name": "Discrete Mathematical Structures (2:0:0)",
+      "lectures": 2,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS35_TUT": {
+      "faculty_id": "drsangeetha_v",
+      "course_name": "DMS TUT (0:1:0)",
+      "lectures": 0,
+      "tutorials": 1,
+      "labs": 0
+    },
+    "24CSL36": {
+      "faculty_id": "nandini_s_b",
+      "course_name": "Data Structures Laboratory (0:0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "24CSL37": {
+      "faculty_id": "pradeep_kumar_d",
+      "course_name": "OOP Laboratory (0:0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "24UHV38": {
+      "faculty_id": "soumya_c_s",
+      "course_name": "Universal Human Value Course (2:0:0)",
+      "lectures": 2,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CSAEC310": {
+      "faculty_id": "mamatha_a",
+      "course_name": "Unix and Shell Programming (1:0:0)",
+      "lectures": 1,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "24CS32": {
+      "faculty_id": "drakshata_s_bhayyar",
+      "course_name": "Digital Design and Computer Organization (3:0:1)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 1
+    }
+  },
+  "5A": {
+    "23CS52": {
+      "faculty_id": "drrajarajeswari_s",
+      "course_name": "Artificial Intelligence and Machine Learning (3:0:1)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "23CS53": {
+      "faculty_id": "drsushma_b",
+      "course_name": "Database Systems(2:0:0)",
+      "lectures": 2,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CS53_TUT": {
+      "faculty_id": "drsushma_b",
+      "course_name": "DBS TUT (0:1:0)",
+      "lectures": 0,
+      "tutorials": 1,
+      "labs": 0
+    },
+    "23CS54": {
+      "faculty_id": "drsangeetha_v",
+      "course_name": "Operating Systems(4:0:0)",
+      "lectures": 4,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSE551": {
+      "faculty_id": "nandini_s_b",
+      "course_name": "Program Elective Course – 1 Cryptography and Network Security(3:0: 0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSE5511": {
+      "faculty_id": "drshilpa_s_chaudhari",
+      "course_name": "Program Elective Course – 1 Secure Programming ( 3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSL56": {
+      "faculty_id": "drsushma_b",
+      "course_name": "Database Laboratory (0: 0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "23CSL57": {
+      "faculty_id": "drakshata_s_bhayyar",
+      "course_name": "Full Stack Development Lab (0:0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "23AL58": {
+      "faculty_id": "drtn_r_kumar",
+      "course_name": "Research Methodology & Intellectual property rights (3: 0: 0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSAEC510": {
+      "faculty_id": "brunda",
+      "course_name": "AEC- Project Management With GIT (1:0:0)",
+      "lectures": 1,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CS51": {
+      "faculty_id": "darshana_a_naik",
+      "course_name": "Software Engineering & Modeling (3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    }
+  },
+  "5B": {
+    "23CS52": {
+      "faculty_id": "jamuna_s_murthy",
+      "course_name": "Artificial Intelligence and Machine Learning (3:0:1)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "23CS53": {
+      "faculty_id": "drdayananda_r_b",
+      "course_name": "Database Systems(2:0:0)",
+      "lectures": 2,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CS53_TUT": {
+      "faculty_id": "drdayananda_r_b",
+      "course_name": "DBS TUT (0:1:0)",
+      "lectures": 0,
+      "tutorials": 1,
+      "labs": 0
+    },
+    "23CS54": {
+      "faculty_id": "dra_parkavi",
+      "course_name": "Operating Systems(4:0:0)",
+      "lectures": 4,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSE551": {
+      "faculty_id": "drsangeetha_v",
+      "course_name": "Program Elective Course – 1 Cryptography and Network Security(3:0: 0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSE5511": {
+      "faculty_id": "drshilpa_s_chaudhari",
+      "course_name": "Program Elective Course – 1 Secure Programming ( 3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSL56": {
+      "faculty_id": "drdayananda_r_b",
+      "course_name": "Database Laboratory (0: 0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "23CSL57": {
+      "faculty_id": "drj_geetha",
+      "course_name": "Full Stack Development Lab (0:0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "23AL58": {
+      "faculty_id": "priya_k",
+      "course_name": "Research Methodology & Intellectual property rights (3: 0: 0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSAEC510": {
+      "faculty_id": "prof_nagabhushan_a_m",
+      "course_name": "AEC- Project Management With GIT (1:0:0)",
+      "lectures": 1,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CS51": {
+      "faculty_id": "drtn_r_kumar",
+      "course_name": "Software Engineering & Modeling (3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    }
+  },
+  "5C": {
+    "23CS52": {
+      "faculty_id": "drjsangeetha",
+      "course_name": "Artificial Intelligence and Machine Learning (3:0:1)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "23CS53": {
+      "faculty_id": "akshata_kamath",
+      "course_name": "Database Systems(2:0:0)",
+      "lectures": 2,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CS53_TUT": {
+      "faculty_id": "akshata_kamath",
+      "course_name": "DBS TUT (0:1:0)",
+      "lectures": 0,
+      "tutorials": 1,
+      "labs": 0
+    },
+    "23CS54": {
+      "faculty_id": "darshana_a_naik",
+      "course_name": "Operating Systems(4:0:0)",
+      "lectures": 4,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSE551": {
+      "faculty_id": "soumya_c_s",
+      "course_name": "Program Elective Course – 1 Cryptography and Network Security(3:0: 0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSE5511": {
+      "faculty_id": "drshilpa_s_chaudhari",
+      "course_name": "Program Elective Course – 1 Secure Programming ( 3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSL56": {
+      "faculty_id": "akshata_kamath",
+      "course_name": "Database Laboratory (0: 0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "23CSL57": {
+      "faculty_id": "vishwachetan_d",
+      "course_name": "Full Stack Development Lab (0:0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "23AL58": {
+      "faculty_id": "veena_gs",
+      "course_name": "Research Methodology & Intellectual property rights (3: 0: 0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSAEC510": {
+      "faculty_id": "brunda",
+      "course_name": "AEC- Project Management With GIT (1:0:0)",
+      "lectures": 1,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CS51": {
+      "faculty_id": "pradeep_kumar_d",
+      "course_name": "Software Engineering & Modeling (3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    }
+  },
+  "5D": {
+    "23CS52": {
+      "faculty_id": "jamuna_s_murthy",
+      "course_name": "Artificial Intelligence and Machine Learning (3:0:1)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "23CS53": {
+      "faculty_id": "drsangeetha_v",
+      "course_name": "Database Systems(2:0:0)",
+      "lectures": 2,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CS53_TUT": {
+      "faculty_id": "drsangeetha_v",
+      "course_name": "DBS TUT (0:1:0)",
+      "lectures": 0,
+      "tutorials": 1,
+      "labs": 0
+    },
+    "23CS54": {
+      "faculty_id": "chandrika_prasad",
+      "course_name": "Operating Systems(4:0:0)",
+      "lectures": 4,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSE5511": {
+      "faculty_id": "drshilpa_s_chaudhari",
+      "course_name": "Program Elective Course – 1 Secure Programming ( 3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSL56": {
+      "faculty_id": "drsangeetha_v",
+      "course_name": "Database Laboratory (0: 0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "23CSL57": {
+      "faculty_id": "mallegowda_m",
+      "course_name": "Full Stack Development Lab (0:0:1)",
+      "lectures": 0,
+      "tutorials": 0,
+      "labs": 1
+    },
+    "23AL58": {
+      "faculty_id": "priya_k",
+      "course_name": "Research Methodology & Intellectual property rights (3: 0: 0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CSAEC510": {
+      "faculty_id": "prof_nagabhushan_a_m",
+      "course_name": "AEC- Project Management With GIT (1:0:0)",
+      "lectures": 1,
+      "tutorials": 0,
+      "labs": 0
+    },
+    "23CS51": {
+      "faculty_id": "dra_parkavi",
+      "course_name": "Software Engineering & Modeling (3:0:0)",
+      "lectures": 3,
+      "tutorials": 0,
+      "labs": 0
+    }
+  },
+  "7A": {},
+  "7B": {}
+}

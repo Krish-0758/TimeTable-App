@@ -1,0 +1,219 @@
+{
+  "drannapurna_p_patil": {
+    "id": "drannapurna_p_patil",
+    "name": "Dr.Annapurna P. Patil",
+    "original_name": "Dr.Annapurna P. Patil",
+    "designation": "Head & Professor",
+    "max_units": 18
+  },
+  "drmonica_r_mundada": {
+    "id": "drmonica_r_mundada",
+    "name": "Dr.Monica R Mundada",
+    "original_name": "Dr.Monica R Mundada",
+    "designation": "Professor",
+    "max_units": 18
+  },
+  "prof_nagabhushan_a_m": {
+    "id": "prof_nagabhushan_a_m",
+    "name": "Prof. Nagabhushan A M",
+    "original_name": "Prof. Nagabhushan A M",
+    "designation": "Professor",
+    "max_units": 18
+  },
+  "drjayalakshmi_ds": {
+    "id": "drjayalakshmi_ds",
+    "name": "Dr.Jayalakshmi D.S",
+    "original_name": "Dr.Jayalakshmi D.S",
+    "designation": "Professor",
+    "max_units": 18
+  },
+  "drshilpa_s_chaudhari": {
+    "id": "drshilpa_s_chaudhari",
+    "name": "Dr.Shilpa S Chaudhari",
+    "original_name": "Dr.Shilpa S Chaudhari",
+    "designation": "Associate Professor",
+    "max_units": 18
+  },
+  "drtn_r_kumar": {
+    "id": "drtn_r_kumar",
+    "name": "Dr.T.N R. Kumar",
+    "original_name": "Dr.T.N R. Kumar",
+    "designation": "Associate Professor",
+    "max_units": 18
+  },
+  "drrajarajeswari_s": {
+    "id": "drrajarajeswari_s",
+    "name": "Dr.Rajarajeswari S",
+    "original_name": "Dr.Rajarajeswari S",
+    "designation": "Associate Professor",
+    "max_units": 18
+  },
+  "drjsangeetha": {
+    "id": "drjsangeetha",
+    "name": "Dr.J.Sangeetha",
+    "original_name": "Dr.J.Sangeetha",
+    "designation": "Associate Professor",
+    "max_units": 18
+  },
+  "dra_parkavi": {
+    "id": "dra_parkavi",
+    "name": "Dr.A Parkavi",
+    "original_name": "Dr.A Parkavi",
+    "designation": "Associate Professor",
+    "max_units": 18
+  },
+  "drj_geetha": {
+    "id": "drj_geetha",
+    "name": "Dr.J Geetha",
+    "original_name": "Dr.J Geetha",
+    "designation": "Associate Professor",
+    "max_units": 18
+  },
+  "drdayananda_r_b": {
+    "id": "drdayananda_r_b",
+    "name": "Dr.Dayananda R B",
+    "original_name": "Dr.Dayananda R B",
+    "designation": "Associate Professor",
+    "max_units": 18
+  },
+  "drsangeetha_v": {
+    "id": "drsangeetha_v",
+    "name": "Dr.Sangeetha V",
+    "original_name": "Dr.Sangeetha V",
+    "designation": "Associate Professor",
+    "max_units": 18
+  },
+  "veena_gs": {
+    "id": "veena_gs",
+    "name": "Veena GS",
+    "original_name": "Veena GS",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "mallegowda_m": {
+    "id": "mallegowda_m",
+    "name": "Mallegowda M",
+    "original_name": "Mallegowda M",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "drhv_divakar": {
+    "id": "drhv_divakar",
+    "name": "Dr.H.V. Divakar",
+    "original_name": "Dr.H.V. Divakar",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "chandrika_prasad": {
+    "id": "chandrika_prasad",
+    "name": "Chandrika Prasad",
+    "original_name": "Chandrika Prasad",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "pramod_c_sunagar": {
+    "id": "pramod_c_sunagar",
+    "name": "Pramod C Sunagar",
+    "original_name": "Pramod C Sunagar",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "pradeep_kumar_d": {
+    "id": "pradeep_kumar_d",
+    "name": "Pradeep kumar D",
+    "original_name": "Pradeep kumar D",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "drganeshayya_i_shidaganti": {
+    "id": "drganeshayya_i_shidaganti",
+    "name": "Dr.Ganeshayya I Shidaganti",
+    "original_name": "Dr.Ganeshayya I Shidaganti",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "darshana_a_naik": {
+    "id": "darshana_a_naik",
+    "name": "Darshana A Naik",
+    "original_name": "Darshana A Naik",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "shilpa_hariraj": {
+    "id": "shilpa_hariraj",
+    "name": "Shilpa Hariraj",
+    "original_name": "Shilpa Hariraj",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "jamuna_s_murthy": {
+    "id": "jamuna_s_murthy",
+    "name": "Jamuna S Murthy",
+    "original_name": "Jamuna S Murthy",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "sushma_b": {
+    "id": "sushma_b",
+    "name": "Sushma B",
+    "original_name": "Sushma B",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "nandini_s_b": {
+    "id": "nandini_s_b",
+    "name": "Nandini S B",
+    "original_name": "Nandini S B",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "chetan_d_s": {
+    "id": "chetan_d_s",
+    "name": "Chetan D S",
+    "original_name": "Chetan D S",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "soumya_c_s": {
+    "id": "soumya_c_s",
+    "name": "Soumya C S",
+    "original_name": "Soumya C S",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "manjula_l": {
+    "id": "manjula_l",
+    "name": "Manjula L",
+    "original_name": "Manjula L",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "akshata_s_bhayyar": {
+    "id": "akshata_s_bhayyar",
+    "name": "Akshata S Bhayyar",
+    "original_name": "Akshata S Bhayyar",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "vishwachetan_d": {
+    "id": "vishwachetan_d",
+    "name": "Vishwachetan D",
+    "original_name": "Vishwachetan D",
+    "designation": "Assistant Professor",
+    "max_units": 18
+  },
+  "mamatha_a": {
+    "id": "mamatha_a",
+    "name": "Mamatha A",
+    "original_name": "Mamatha A",
+    "designation": "Senior Lecturer",
+    "max_units": 28
+  },
+  "pallavi_n": {
+    "id": "pallavi_n",
+    "name": "Pallavi N",
+    "original_name": "Pallavi N",
+    "designation": "Senior Lecturer",
+    "max_units": 28
+  }
+}
